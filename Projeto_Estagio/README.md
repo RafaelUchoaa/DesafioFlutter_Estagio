@@ -19,10 +19,6 @@ O **Flutter Posts App** é um aplicativo simples desenvolvido em Flutter que per
 - **HTTP**: Pacote para fazer requisições HTTP e consumir APIs.
 - **JSON**: Para manipulação e exibição de dados provenientes da API.
 
-## Screenshots
-
-![Tela Inicial](https://via.placeholder.com/600x400.png?text=Lista+de+Posts) ![Tela de Detalhes](https://via.placeholder.com/600x400.png?text=Detalhes+do+Post)
-
 ## Instalação
 
 Para rodar este projeto, você precisará ter o Flutter instalado. Siga os passos abaixo:
